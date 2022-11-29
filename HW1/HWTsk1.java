@@ -17,10 +17,7 @@
 //         System.out.println("Enter number y: ");
 //         int y = iScanner.nextInt();
 //         System.out.println(expressionCheck(x , y) + "\n");
-//         iScanner.close();
-//         // System.out.println(expressionCheck(11, 6) + "\n");
-       
-        
+//         iScanner.close();       
 //     }
 //     public static boolean expressionCheck(int x , int y) {
 //         return x >= 10 && y <= 20;
@@ -99,8 +96,7 @@
 // public class HWTsk1 {
 // public static void main(String[] args) {
 //     int[] arr1 = {1, 1, 0, 0, 1, 0, 1, 1, 0, 0};
-//     System.out.println("Result:  ");
-//       integerArray(arr1);
+//     integerArray(arr1);
 //     System.out.println();
 //     }
 //     public static void integerArray(int[] arr) {
@@ -120,7 +116,6 @@
 // package HW1;
 // public class HWTsk1 {
 // public static void main(String[] args) {
-
 //     System.out.println(" ");
 //     emptyArray(100);}
 //     public static void emptyArray ( int size) {
